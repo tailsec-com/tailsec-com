@@ -74,3 +74,5 @@ See [CONTRIBUTING.md](./.github/profile/CONTRIBUTING.md) for how to contribute r
 ## License
 
 All projects are MIT licensed. Built with by the community.
+
+[![advertisement](https://ads.servead.net/i/c22bcc19-be5f-49c2-a2eb-55c55052f197.svg)](https://ads.servead.net/c/c22bcc19-be5f-49c2-a2eb-55c55052f197)
